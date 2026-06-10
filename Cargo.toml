@@ -1,4 +1,6 @@
 [package]
+description = "ternary-stream-queue - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-stream-queue"
 name = "ternary-stream-queue"
 version = "0.1.0"
 edition = "2024"
